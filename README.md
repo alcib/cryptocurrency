@@ -7,5 +7,5 @@ Part 01
 
 pdf: https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.pdf
 
-txt: https://raw.githubusercontent.com/alcib/cryptocurrency/master/articles/article_01_1.txt
+txt: https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.txt
 
