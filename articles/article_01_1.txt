@@ -1,12 +1,13 @@
 Risk assessment of investing  in cryptocurrency markets.
-this article in pdf:
+this article in pdf: 
+https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.pdf
 
 The price and quantity indexes from the site Coinmarketcap.com  were used to this article  by Dec 2017 12:00 PM UTC.
 The values and market capitalizations of more than 1360 cryptocurrencies are traced in the site Coinmarketcap.com.  
 According to the information from the site, cryptocurrency market capitalizations are currently at a premium $600,4 billion. 
 In my opinion, about third of this amount ($200 billion)  is  scam. 
 In this article I will help you find scam schemes in the cryptocurrencies market.  Also I will help you check the 
-cryptocurrencies software. Then we will analyze all cryptocurrencies with capitalization above $0.5 billion. So we can 
+cryptocurrencies software. Then we will analyse all cryptocurrencies with capitalization above $0.5 billion. So we can 
 understand is the cryptocurrency suitable for long time investment or it can be used just for short time speculations.
 The main thing is Blockchain technology. Blockchain is a new financial transactions technology. The Blockchain is a time-
 tested technology. More than 7 years the Bitcoin network functions without failures. The Blockchain let us make  financial 
@@ -36,7 +37,7 @@ Code/contributors - here you can see  list of  developers and planning for the s
 Issues, Pull requests - here you can see  the problems identified, speed of their solutions.
 You shouldn't pay attention to stars repository. A lot of projects increase quantity of the stars by scam methods.
 
-For example, we will try analyze the coin Verge (XVG). Within a week the Verge grown up  four times. The coin's 
+For example, we will try analyse the coin Verge (XVG). Within a week the Verge grown up  four times. The coin's 
 capitalization reached around $0.985 billion by Dec 17, 2017.  Now we will  look in the forum bitcointalk.org:
 https://bitcointalk.org/index.php?topic=770742.msg8696565#msg8696565
 https://bitcointalk.org/index.php?topic=817937.0
@@ -47,7 +48,7 @@ forum bitcointalk.org, you'll know a lot of interesting things about this curren
 repository:  https://github.com/vergecurrency/VERGE
 
 Founders' Reward
-All cryptocurrencies are open-source software projects. So the another instrument that can be used to analyze the 
+All cryptocurrencies are open-source software projects. So the another instrument that can be used to analyse the 
 cryptocurrencies is the coin's creation. 
 The main question: Do the founders have   any benefits over all the other users during  cryptocurrencies creation?  If 
 YES, we have uneven distribution of the coins. So a small number of persons have large number of coins. There is a risk 
@@ -58,7 +59,7 @@ Because A-coin is open-source software project, another persons can start one mo
 source code of the A-coins. Scheme of B-coins creation would be changed (it would be more even). In this case the B-
 coin is a fork of the A-coin. Investments in the B-coin are more favorable, because B-coin market capitalization will 
 become larger than A-coin.
-Now we will analyze the cryptocurrencies with capitalization above $0.5 billion, in which the Founders' Reward is more 
+Now we will analyse the cryptocurrencies with capitalization above $0.5 billion, in which the Founders' Reward is more 
 than 1% of the coins: 
 1) Zcash (ZEC)
 https://bitcointalk.org/index.php?topic=1626185.0
@@ -79,7 +80,7 @@ Capitalization: $0.770 billion
 Founders' Reward: more than 50% - premining. 
 The cryptocurrency Ethereum (ETH)  will be discussed below.
 
-Another scam schemes will be analyzed in the second part of the article. I'll try make it as soon as possible.  :)
+Another scam schemes will be analysed in the second part of the article. I'll try make it as soon as possible.  :)
 If this article was useful for you, or you are interested in a continuation of my research in that field, please, just do 
 donations:
 BTC: 14SZxryp7FVevqVRwHfNFdtt8CbyUwKFAw
