@@ -5,8 +5,9 @@ Technical and investment aspects
 
 Part 01 
 
-txt: https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.txt
-
 pdf: https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.pdf
+
+txt: https://raw.githubusercontent.com/alcib/cryptocurrency/master/articles/article_01_1.txt
+
 
 
