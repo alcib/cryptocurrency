@@ -1,5 +1,5 @@
 Risk assessment of investing  in cryptocurrency markets.
-this article in pdf: 
+This article is in pdf: 
 https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.pdf
 
 The price and quantity indexes from the site Coinmarketcap.com  were used to this article  by Dec 2017 12:00 PM UTC.
