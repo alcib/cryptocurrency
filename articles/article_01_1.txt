@@ -1,0 +1,93 @@
+Risk assessment of investing  in cryptocurrency markets.
+this article in pdf:
+
+The price and quantity indexes from the site Coinmarketcap.com  were used to this article  by Dec 2017 12:00 PM UTC.
+The values and market capitalizations of more than 1360 cryptocurrencies are traced in the site Coinmarketcap.com.  
+According to the information from the site, cryptocurrency market capitalizations are currently at a premium $600,4 billion. 
+In my opinion, about third of this amount ($200 billion)  is  scam. 
+In this article I will help you find scam schemes in the cryptocurrencies market.  Also I will help you check the 
+cryptocurrencies software. Then we will analyze all cryptocurrencies with capitalization above $0.5 billion. So we can 
+understand is the cryptocurrency suitable for long time investment or it can be used just for short time speculations.
+The main thing is Blockchain technology. Blockchain is a new financial transactions technology. The Blockchain is a time-
+tested technology. More than 7 years the Bitcoin network functions without failures. The Blockchain let us make  financial 
+transactions anonymously (without intermediaries). We don't need any financial intermediaries (banks, stock exchanges, 
+centralized payment systems  - Visa, MasterCard  etc) and their computing powers.  As all  financial transactions are 
+done through coins, so cryptocurrency market capitalization is growing. Cryptocurrency transactions will replace current 
+financial schemes step by step (such as exchange trading, banking transactions, commercial transactions etc). In my 
+opinion, in time cryptocurrencies technology will displace current financial institutions. 
+Nowadays there are more than 1360 cryptocurrencies. Therefore we need to know which ones will remain at the 
+marketplace. What share of the market will have this or that cryptocurrency?
+Also cryptocurrencies let us  get rid of  state control over any type of financial transactions. Because of that 
+cryptocurrency market became  an ideal place for making financial pyramids and other scam schemes. 
+The main instrument that can be used to check the cryptocurrencies is forum bitcointalk.org.  We can find here 
+announcements and news of the all cryptocurrencies.  Also the community discusses  merits and demerits of   a particular 
+coin or software  at the forum. Bitcointalk.org is  the oldest cryptocurrencies forum (it acts  since 2010). Often you can find 
+out an exclusive here.  
+Also here you can always get the link to the service github.com. GitHub offers plans for free repositories which are 
+commonly used to host open-source software projects. This website provides information about the source code of the 
+cryptocurrencies software, program development. Also here you can read the messages about any errors found and 
+speed of their removing.  
+If you didn't find discussions of the cryptocurrency at the forum bitcointalk.org  or you didn't find the source code of it's 
+software at the github.com, so this cryptocurrency  is just scam. 
+You can check the software of the chosen cryptocurrency at the github.com  through these tabs:
+Code/commits - here you can see, which  module is  in developing  now 
+Code/Releases - here you can see  chronology of releases
+Code/contributors - here you can see  list of  developers and planning for the software development
+Issues, Pull requests - here you can see  the problems identified, speed of their solutions.
+You shouldn't pay attention to stars repository. A lot of projects increase quantity of the stars by scam methods.
+
+For example, we will try analyze the coin Verge (XVG). Within a week the Verge grown up  four times. The coin's 
+capitalization reached around $0.985 billion by Dec 17, 2017.  Now we will  look in the forum bitcointalk.org:
+https://bitcointalk.org/index.php?topic=770742.msg8696565#msg8696565
+https://bitcointalk.org/index.php?topic=817937.0
+https://bitcointalk.org/index.php?topic=1053864
+https://bitcointalk.org/index.php?topic=1365894.0
+The first block of the Verge started in Sept 09, 2014. Before  rebranding the coin was called Dogecoindark. If you read the 
+forum bitcointalk.org, you'll know a lot of interesting things about this currency. The current Verge's release is in 
+repository:  https://github.com/vergecurrency/VERGE
+
+Founders' Reward
+All cryptocurrencies are open-source software projects. So the another instrument that can be used to analyze the 
+cryptocurrencies is the coin's creation. 
+The main question: Do the founders have   any benefits over all the other users during  cryptocurrencies creation?  If 
+YES, we have uneven distribution of the coins. So a small number of persons have large number of coins. There is a risk 
+of concurrent  sale of the cryptocoins. In this case value of the cryptocurrency will fall dramatically. So if the founders take 
+part of the coins for themselves as a reward, I don't recommend use such cryptocurrency for long time investment.
+For example, we have cryptocurrency A-coin. And the founders take part of the A-coins for themselves as a reward. 
+Because A-coin is open-source software project, another persons can start one more cryptocurrency (B-coin) by copying 
+source code of the A-coins. Scheme of B-coins creation would be changed (it would be more even). In this case the B-
+coin is a fork of the A-coin. Investments in the B-coin are more favorable, because B-coin market capitalization will 
+become larger than A-coin.
+Now we will analyze the cryptocurrencies with capitalization above $0.5 billion, in which the Founders' Reward is more 
+than 1% of the coins: 
+1) Zcash (ZEC)
+https://bitcointalk.org/index.php?topic=1626185.0
+https://github.com/zcash/zcash
+Capitalization: $1.399 billion
+Founders' Reward: 20% of current quantity of the coins 
+2) Hshare (HSR)
+https://bitcointalk.org/index.php?topic=2097413.0
+https://github.com/HcashOrg/Hshare
+Capitalization: $0.956 billion
+Founders' Reward: 10% - premining. 
+ICO&Pre-ICO: 50% (see below)  
+PoS: 25% (see below)  
+3) Bytecoin (BCN)
+https://bitcointalk.org/index.php?topic=512747.0
+https://github.com/amjuarez/bytecoin
+Capitalization: $0.770 billion
+Founders' Reward: more than 50% - premining. 
+The cryptocurrency Ethereum (ETH)  will be discussed below.
+
+Another scam schemes will be analyzed in the second part of the article. I'll try make it as soon as possible.  :)
+If this article was useful for you, or you are interested in a continuation of my research in that field, please, just do 
+donations:
+BTC: 14SZxryp7FVevqVRwHfNFdtt8CbyUwKFAw
+XMR: 
+46v4d1QvQhE9zEt2dMDV5qFqdrZgX5YjqGrPAdta59Z86WnNwKyb4GgL1UfGRuvdTKSyqgJUMdP4mBzgqLjvHjnNScM
+mT2Q
+
+Copying of the article is permitted only without any revisions.
+
+Alcibiades2018   https://github.com/alcib
+
