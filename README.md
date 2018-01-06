@@ -1,4 +1,8 @@
-# Research Laboratory: Financial security cryptocurrencies
+# Research Laboratory: Financial risks and cybersecurity of the cryptocurrencies software
+
+1.Cryptocurrencies valuation: risks and resilience.
+
+2.Cryptocurrencies technologies: which incidents can violate stable work of software? 
 
 ## Article 01. Risk assessment of investing  in cryptocurrency markets.
 
