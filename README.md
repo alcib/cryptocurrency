@@ -11,6 +11,13 @@ Part 2: [PDF](https://github.com/alcib/cryptocurrency/blob/master/articles/artic
 ## 2.Cryptocurrencies technologies: which incidents can violate stable work of software? 
 
 
+If these articles were useful for you, or you are interested in a continuation of my research in that field, 
+please, just do donations:
+BTC: 14SZxryp7FVevqVRwHfNFdtt8CbyUwKFAw
+XMR: 
+46v4d1QvQhE9zEt2dMDV5qFqdrZgX5YjqGrPAdta59Z86WnNwKyb4GgL1UfGRuvdTKSyqgJUMdP4mBzgqLjvHjnNScMmT2Q
+
+
 
 
 
