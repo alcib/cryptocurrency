@@ -1,2 +1,176 @@
 Risk assessment of investing  in cryptocurrency markets.
 The second part
+
+This article is in PDF (the first and the second  parts): 
+https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.pdf
+https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_2.pdf
+
+The price and quantity indexes from the site Coinmarketcap.com  were used to this article  by Dec 2017 12:00 PM UTC.
+
+PoS (Proof-of-Stake), PoI (Proof-of-importance) etc
+
+The second scheme of coin's creation is PoS (Proof-of-Stake), PoI (Proof-of-importance) etc.  
+Newly created coins are distributed among the members of the cryptocurrency network in 
+proportion to the share owned by member, in using such schemes.  But investors need to freeze 
+their coins to receive the reward (newly created cryptocoins). Of course, more and more investors 
+will freeze their coins. And as a result, less and less coins will remain for financial transactions. It 
+makes lack of the cryptocurrency in circulation. And value of the cryptocurrency will grow rapidly. 
+
+Then this financial pyramid will reach its top, and value of the cryptocurrency will fall down.  The 
+investors will begin unfreeze their coins to get rid of depreciated funds. It makes oversupply of the 
+cryptocurrency in circulation. In this case value of the cryptocurrency will fall dramatically.  So I 
+don't recommend use such cryptocurrency (with PoS, PoI etc methods of coins creation) for long 
+time investment.
+
+Now we will analyse the cryptocurrencies with capitalization above $0.5 billion, in which PoS, PoI 
+etc coins creation schemes are used:
+1) DASH (Dash)
+https://bitcointalk.org/index.php?topic=421615.0
+https://github.com/dashpay/dash
+Capitalization: $8.444 billion
+
+2) BitConnect (BCC)
+https://bitcointalk.org/index.php?topic=1681719.0
+https://github.com/bitconnectcoin/bitconnectcoin
+Capitalization: $2.184 billion
+
+3) Decred (DCR)
+https://bitcointalk.org/index.php?topic=1290358.0
+https://github.com/decred/dcrd
+Capitalization: $0.564 billion
+
+4) Siacoin (SC)
+https://bitcointalk.org/index.php?topic=1060294.0
+https://github.com/NebulousLabs/Sia
+Capitalization: $0.522 billion
+
+
+ICO (Initial coin offering)
+
+The third scheme of coin's creation is ICO. It is a sale of a number of newly created coins to 
+investors. There are three important points dealing with ICO:
+
+1) An initial coin offering is a crowdfunding. It is a funding of startup companies. Investors buy 
+some quantity of tokens. These tokens become real cryptocoins when the project launches.
+2) But token buyers haven't the same rights as shareholders (the stock owners). 
+3) As all cryptocurrencies are  anonymous open-source software projects, so  the copyrights for 
+software  can not be protected. So if the ICO's funding goal is met (your startup is successful), the 
+software will be copied by another founders for other projects soon. And you can lose your profit.
+
+In my opinion, investments in tokens during the ICO's funding are:
+-	voluntary donations for scientific research in the field of cryptocurrencies` technologies;
+-	or short time speculation in the cryptocurrencies markets. In this case we count on rapid 
+increase of the cryptocurrency value.
+
+In the future legislation on cryptocurrencies` technologies would be drafted.  And we will have:
+-	cryptocoins creation by State. In this case the State will guarantee the pegging a 
+cryptocurrency to one currency like the dollar.
+-	crypto securities of the companies and  funds. They will be directly distributed among 
+investors (without any financial institutions).
+
+Cryptocurrency Tether (USDT) can be the basis for a cryptocurrency with State guarantees. Its 
+current capitalization is $1.127 billion. The value of one USDT cryptocoin is $1. But without legal 
+framework investments in the Tether have not been successful: 
+https://bitcointalk.org/index.php?topic=1881199.0
+ 
+Now I would like to bring to your attention cryptocurrency Ethereum (ETH). 
+https://bitcointalk.org/index.php?topic=428589.0
+https://github.com/ethereum/cpp-ethereum
+Capitalization: $ 69.548 billion
+To this day, 96.4 million Ethereum tokens were created. So the value of one ETH cryptocoin is 
+$690. In 2014 year 60,102,216 ETH were sold during the ICO's funding at a price $0.31. The 
+founders' reward amounted to ETH 12 million.      
+Therefore, 62.3% of current quantity of the Ethereum coins were sold during the ICO's funding. 
+12.4% of the current quantity of the Ethereum coins is founders' reward.  
+In 2016 year Ethereum was hardforked into two separate blockchains: the new hardforked version 
+became Ethereum (ETH), and the original continued as Ethereum Classic (ETC). Current 
+capitalization of Ethereum Classic is $3.449 billion. The coins that are in wallets at the time of the 
+hardfork, end up in the wallets of both cryptocurrencies (are doubled).  
+So  money ($18,439,086), which were invested  in Ethereum tokens during the ICO's funding  in 
+2014 year, have increased 2581 times: 
+($ 69. 548 billion + $3,449 billion)/ 92 360 000 ETH *  60 102 216 ETH / $0.0184 billion = 2581 
+times.
+How could this happen? 
+
+Ethereum Virtual Machine (EVM)
+Ethereum is not just a cryptocurrency. It is a platform for making ICO of new crypto tokens. This 
+platform is known as the Ethereum Virtual Machine (EVM). 
+There is no need to create new cryptocurrency for making new ICO. There's only enough to carry 
+out an extensive advertising campaign and to involve solid developers.
+The Ethereum tokens capitalization is $25.377 billion according to Coinmarketcap.com.   Buying 
+and selling of such tokens are made for ETH coins. So the more tokens on a platform Ethereum 
+are created, the quicker the Ethereum coins value will increase. 
+Ethereum isn't the only platform for making ICO of new crypto tokens.  But the Ethereum`s 
+founders were the first who figured out how to make their financial pyramid of the scores of smaller 
+financial pyramids. 
+The Ethereum tokens with capitalization above $0.5 billion are shown in table 1.
+
+Table 1 (Billion Dollars)
+--------------------------
+Cryptocurrency		Market Capitalizations
+EOS (EOS) 		 4.619
+TRON (TRX)		 2.433
+Populous (PPT)		 1.992
+OmiseGO (OMG)		 1.465
+Binance Coin (BNB)	 0.642
+Status (SNT)		 0.594
+Veritaseum (VERI)	 0.579
+SALT (SALT)		 0.525
+other 339 Ethereum 
+tokens, with Market 
+Capitalization  less 
+than $0.5 billion	12.529
+
+So the Ethereum, Ethereum Classic and Ethereum Tokens total capitalization is $98.375 billion. I 
+hope Ethereum stays not only just a financial pyramid, but its software will form the basis for the 
+first Stock exchange based on Blockchain technology.  
+
+Other cryptocurrencies, where coins creation is ICO, with capitalization above $0.5 billion are 
+shown in table 2.
+Table 2 (Billion Dollars)
+-------------------------
+Cryptocurrency		Market Capitalizations
+Ripple (XRP)		28.691
+Cardano (ADA)		13.199
+IOTA (IOTA)		 9.903
+NEM (XEM)		 6.190
+Stellar (XLM)		 4.697
+NEO (NEO)		 3.709
+Qtum (QTUM)		 2.172
+Lisk (LSK)		 1.391
+Waves (WAVES)		 1.341
+Tether (USDT)		 1.127
+Stratis (STRAT)		 1.081
+BitShares (BTS)		 1.060
+Ardor (ARDR)		 0.958
+Nxt (NXT)		 0.809
+Ark (ARK)		 0.580
+Steem (STEEM)		 0.559
+Other 90 ICO tokens, 
+with Market Capitalization  
+less than $0.5 billion	 1.717
+
+Earlier we reviewed four scam schemes in the cryptocurrencies market.  Total capitalization of all 
+above-named cryptocurrencies  (with 339 Ethereum tokens and 90 others tokens with market 
+capitalization less than $0.5 billion) is about  $191.2 billion according to Coinmarketcap.com. It's a 
+third of the current cryptocurrency market capitalization. 
+
+Now I will describe the last scam scheme.  There is no these $191.2 billion. As all 
+cryptocurrencies are anonymous, so founders can sell their tokens to themselves. They can put 
+only a small part of their tokens on the market to increase demand and tokens value. 
+So we see: all scam schemes in the cryptocurrencies market are in using the unfair methods of 
+coin's creation.  The only fair method of coins creation is PoW (Proof-of-work). 
+
+The fair schemes of the cryptocurrencies market will be analysed in the third part of the article. I'll 
+try make it as soon as possible.  :)
+
+If this article was useful for you, or you are interested in a continuation of my research in that field, 
+please, just do donations:
+BTC: 14SZxryp7FVevqVRwHfNFdtt8CbyUwKFAw
+XMR: 
+46v4d1QvQhE9zEt2dMDV5qFqdrZgX5YjqGrPAdta59Z86WnNwKyb4GgL1UfGRuvdTKSyqgJUMdP4mBzgqLjvHjnNScMmT2Q
+
+Copying of the article is permitted only without any revisions.
+
+Alcibiades2018   https://github.com/alcib
+
