@@ -1,8 +1,11 @@
 Risk assessment of investing  in cryptocurrency markets.
-This article is in pdf: 
-https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_1.pdf
+The first part
+
+All parts of the article in PDF and TXT formats:
+https://github.com/alcib/cryptocurrency/tree/master/articles
 
 The price and quantity indexes from the site Coinmarketcap.com  were used to this article  by Dec 2017 12:00 PM UTC.
+
 The values and market capitalizations of more than 1360 cryptocurrencies are traced in the site Coinmarketcap.com.  
 According to the information from the site, cryptocurrency market capitalizations are currently at a premium $600,4 billion. 
 In my opinion, about third of this amount ($200 billion)  is  scam. 
