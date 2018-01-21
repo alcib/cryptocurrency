@@ -8,6 +8,8 @@ Part 1: [PDF](https://github.com/alcib/cryptocurrency/blob/master/articles/artic
 
 Part 2: [PDF](https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_2.pdf) or [TXT](https://raw.githubusercontent.com/alcib/cryptocurrency/master/articles/article_01_2.txt)
 
+Part 3: [PDF](https://github.com/alcib/cryptocurrency/blob/master/articles/article_01_3.pdf) or [TXT](https://raw.githubusercontent.com/alcib/cryptocurrency/master/articles/article_01_3.txt)
+
 ## 2.Cryptocurrencies technologies: which incidents can violate stable work of software? 
 
 
